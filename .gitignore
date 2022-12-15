@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+Dataset/**
+Presentation/.idea/
+Presentation/auxil/
+Presentation/out/
+Presentation/out/image-super-resulotion.synctex.gz
