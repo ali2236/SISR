@@ -22,5 +22,6 @@ This implementaion is based on [ESRGAN](https://arxiv.org/abs/1809.00219)
 ![SRGAN Architechture](Presentation/images/srgan-arch.png)
 
 ## Datasets
-- [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) ~4GB
-- [Flickr2K](https://cv.snu.ac.kr/research/EDSR/Flickr2K.tar) ~20GB
+- [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) ~4GB (900 images)
+- [Flickr2K](https://cv.snu.ac.kr/research/EDSR/Flickr2K.tar) ~20GB (2650 images)
+- [other](https://drive.google.com/drive/folders/1A6lzGeQrFMxPqJehK9s37ce-tPDj20mD)
